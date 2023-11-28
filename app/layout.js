@@ -5,7 +5,7 @@ const inter = Inter({ subsets: ['latin'] })
 
 export const metadata = {
   title: 'UnderSiege',
-  description: 'Defend your castle from the enemy hordes!',
+  description: 'Defend your castle from the hordes of enemies that come at night.',
 }
 
 export default function RootLayout({ children }) {
